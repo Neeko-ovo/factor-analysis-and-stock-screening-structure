@@ -1,0 +1,14 @@
+量化工作台 · Quant Workbench
+Copyright 2026 Neeko-ovo
+https://github.com/Neeko-ovo
+
+首次公开发布：2026-11-22
+本软件按 Apache License 2.0 授权（见 LICENSE 文件）。
+
+再分发本软件或其衍生作品时，必须保留本 NOTICE 文件以及其中的版权声明。
+修改过的源文件，分发时需注明被修改的部分。
+
+------------------------------------------------------------------------
+Quant Workbench — 一个面向 A 股 / ETF 的因子研究与筛股工作台：
+截面与时序因子检验框架（含 Barra 风格中性化）、RSI · FVG · ATR 筛股、
+双引擎出图（matplotlib / plotly），数据层可切聚宽 jqdata 或本地 baostock。
